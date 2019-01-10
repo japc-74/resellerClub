@@ -1,0 +1,13 @@
+{
+    "name": "avy/resereller-club",
+    "description": "Initial package to integrate customs payments on reselleClub",
+    "type": "library",
+    "authors": [
+        {
+            "name": "AVY",
+            "email": "dev@avy.cl"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
